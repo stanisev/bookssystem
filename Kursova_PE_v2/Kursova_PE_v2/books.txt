@@ -1,0 +1,7 @@
+An American Tragedy,Theodore Dreiser,1st Edition,3334-2239-3243,11/05/1988,11/05/1988,10/05/1988,10,12|
+Na Drini Cuprija,Ivo Andric,2nd Edition,2244-4422-2424,12/12/1974,11/11/1973,10/10/1973,5,20|
+It, Steven King,10th Edition,5678-7654-4567,05/05/2003,05/05/2010,04/05/2010,13,10|
+Pod Igoto,Ivan Vazov,4th Edition,9933-4233-4332,02/02/1893,04/04/1905,01/02/1999,10,30|
+Dox Quixote,Miguel de Cervantes,23rd Edition,9993-4444-3323,04/06/1605,09/09/1900,01/11/2020,15,15|
+The Adventures of Tom Sawyer,Mark Twain,16th Edition,9239-3243-3423,10/11/1900,12/12/1905,11/12/1905,10,20|
+Book,Book,new,new,03/03/2020,03/03/2020,03/03/2020,0,200|
